@@ -9,11 +9,11 @@ The purpose of this analysis is to provide accurate stock data for 2017 and 2018
 The outputs for the 2017 and 2018 stock analysis ranged from overall very positive for selected tickers in 2017 and dismall overall performance in the 2018 fiscal year.
 
 ***Final VBA Analysis 2017***
-![name-of-you-image]https://github.com/Nimamotiee/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis%20Output.JPG
+![VBA_Challenge_2017.png]https://github.com/Nimamotiee/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis%20Output.JPG
 
 
 ***Final VBA Analysis 2018***
-![name-of-you-image]https://github.com/Nimamotiee/stock-analysis/blob/main/Resources/2018%20Stock%20Analysis%20Output.JPG
+![VBA_Challenge_2018.png]https://github.com/Nimamotiee/stock-analysis/blob/main/Resources/2018%20Stock%20Analysis%20Output.JPG
 
 As you can see the 2017 stocks faired to a large extent very well when looking at overall ROI with the greatest return occuring with DQ. When looking at overall daily volume we can summize that all stocks presented are widely traded and faired well when comparing to overall ROI in 2017 for all stocks.
 In 2018, we had much of the complete opposite. 2018 overall stocks selected performed poorly with the worst culprite being, DQ! DQ has quite the amount of volatility when comparing 2017 to 2018 therefore could hinder investor confidence.  
